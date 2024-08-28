@@ -1,4 +1,4 @@
-# Image Encryption Using SEA Algorithm
+# Image Encryption Using SEA
 This repository contains Python code to encrypt images using the SEA (Shuffle Encryption Algorithm) [based on this paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6de8e8ce6fbb07491a331521abb28c3a101577f1).
 ## Features :
   - Convert an original image to grayscale.
